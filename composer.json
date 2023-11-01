@@ -1,0 +1,16 @@
+{
+    "name": "maboyadak/inisev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Conf\\": "conf/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohamed-Aboyadak",
+            "email": "mohamedhamdy9711@gmail.com"
+        }
+    ],
+    "require": {}
+}

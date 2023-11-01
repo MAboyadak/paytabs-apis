@@ -1,0 +1,1 @@
+{"acquirerMessage":"","acquirerRRN":"","cartId":"1212","customerEmail":"email@domain.com","respCode":"G69998","respMessage":"Authorised","respStatus":"A","signature":"f299004c89ca7ceb2752c96adea9eda97c07956a3b1ffb4c7a8fe0de5efad19f","token":"","tranRef":"TST2329701784355"}
